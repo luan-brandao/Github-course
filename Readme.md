@@ -4,4 +4,9 @@ arquivo da aula de hj
 
 lol.
 
-maneiro.
+maneiro
+
+
+
+aprendendo sobre git
+.
